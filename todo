@@ -1,0 +1,9 @@
+Create an array of par_rbNode in host
+
+Allocate the memory in using Cuda malloc
+
+Transfer this to device using CudaMemcpy();
+
+Now try accessing and play with it.
+
+COME BACK
